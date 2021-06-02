@@ -2,14 +2,19 @@
 Tutoriel didactique basée sur un cas réel.
 
 ## 1. Contexte et motivations
-À la suite d'une thermographie (photographies Infra Rouge), j'avais ~300 prises de vue au format .IS2. Pour traiter ces thermographies elles sont toutes ouvertes dans un programme spécialisé. Une à une je traite les images qui m'intéresse, puis je les transforme toutes ces images au format .jpg.
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+À la suite d'une thermographie (photographies Infra Rouge), j'avais ~300 prises de vue au format .IS2. Pour traiter ces thermographies elles sont toutes ouvertes dans un programme spécialisé. Une à une je traite toutes les images simultanément pour obtenir des images au format .jpg.
 
 
-Dans le dossier des 100 fichiers .jpg restant, je fais un tri, pour garder que 50 fichiers .jpg qui seront intégré au rapport.
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![fichier](https://github.com/terborch/tutoriel-python-pour-BG/blob/main/tutoriel_1/Illustratuion_fichiers.png)
 
-Maintenant j'ai besoin de regrouper les 50 fichiers .jpg sélectionné ainsi que les 50 fichier .IS2 correspondant, pour générer les images dans le spectre visible et potentiellement retoucher les thermographies dans le rapport. Comment faire ? J'automatise le procédé!
+
+Dans le dossier des 300 fichiers .jpg, je fais un tri, pour garder que les 50 thermographies qui seront intégré au rapport. J'efface simplement un à un les images au format .jpg qui ne m'intéressent pas.  
+
+
+![images thermographiques](https://github.com/terborch/tutoriel-python-pour-BG/blob/main/tutoriel_1/Illustratuion_photo_IR.png)
+
+
+Maintenant j'ai besoin de regrouper les 50 fichiers .jpg sélectionné ainsi que les 50 fichier .IS2 correspondant, pour les traiter un à un et potentiellement retoucher les thermographies du rapport. Comment faire ? J'automatise le procédé!
 
 ## 2. Installer python via anaconda
 [Lien de téléchargement Anaconda x64 pour Windows](https://repo.anaconda.com/archive/Anaconda3-2021.05-Windows-x86_64.exe)
