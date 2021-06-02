@@ -53,12 +53,9 @@ https://automatetheboringstuff.com/
 https://www.freecodecamp.org/learn/
 
 5. cours sur app mobile interactif - sololearn
-web
-https://www.sololearn.com/learning/1073
-android
-https://play.google.com/store/apps/details?id=com.sololearn.python&hl=en_IN&gl=US
-iphone
-https://apps.apple.com/us/app/sololearn-learn-to-code/id1210079064
+* web https://www.sololearn.com/learning/1073
+* android https://play.google.com/store/apps/details?id=com.sololearn.python&hl=en_IN&gl=US
+* iphone https://apps.apple.com/us/app/sololearn-learn-to-code/id1210079064
 
 6. Cheat sheets
 https://gto76.github.io/python-cheatsheet
