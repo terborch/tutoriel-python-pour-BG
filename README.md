@@ -58,10 +58,10 @@ https://www.freecodecamp.org/learn/
 * iphone https://apps.apple.com/us/app/sololearn-learn-to-code/id1210079064
 
 6. Cheat sheets
-https://gto76.github.io/python-cheatsheet
-https://www.pythoncheatsheet.org/
-https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
-https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+* https://gto76.github.io/python-cheatsheet
+* https://www.pythoncheatsheet.org/
+* https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
+* https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
 ## info additionel
 Éviter d'installer des package python dans l'environnement par défaut (base). Ne jamais mélanger les outils d'installation de package python comme `pip install` ou `conda install`
