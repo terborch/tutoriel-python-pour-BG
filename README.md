@@ -46,7 +46,7 @@ https://automatetheboringstuff.com/
 https://www.sololearn.com/home
 
 ## info additionel
-Éviter d'installer de package python dans l'environnement par défaut (base). Ne jamais mélanger les outils d'installation de package python comme `pip install` ou `conda install`
+Éviter d'installer des package python dans l'environnement par défaut (base). Ne jamais mélanger les outils d'installation de package python comme `pip install` ou `conda install`
 
 De nombreux packages viennent par défaut avec Anaconda, surtout orienté datascience mais aussi machine learning. Ceux que j'utilise le plus souvent sont:
 `pandas` – traitements de données, tableaux, lire/créer des Excel/csv
