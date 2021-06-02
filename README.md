@@ -37,13 +37,34 @@ Démarrer > Recherche > Anaconda prompt
 `jupyter notebook`
 
 
-# Aller plus loins
 
-## Site Web basé sur des cas pratiques
+# Aller plus loins
+1. installer anaconda
+https://www.youtube.com/watch?v=YJC6ldI3hWk
+
+2. utiliser jupyter notebook
+https://www.youtube.com/watch?v=HW29067qVWk
+https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+
+3. cours en ligne (livre basé sur des cas pratique)
 https://automatetheboringstuff.com/
 
-## Application mobile
-https://www.sololearn.com/home
+4. cours en ligne (interactif)
+https://www.freecodecamp.org/learn/
+
+5. cours sur app mobile interactif - sololearn
+web
+https://www.sololearn.com/learning/1073
+android
+https://play.google.com/store/apps/details?id=com.sololearn.python&hl=en_IN&gl=US
+iphone
+https://apps.apple.com/us/app/sololearn-learn-to-code/id1210079064
+
+6. Cheat sheets
+https://gto76.github.io/python-cheatsheet
+https://www.pythoncheatsheet.org/
+https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf
+https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
 ## info additionel
 Éviter d'installer des package python dans l'environnement par défaut (base). Ne jamais mélanger les outils d'installation de package python comme `pip install` ou `conda install`
@@ -52,3 +73,4 @@ De nombreux packages viennent par défaut avec Anaconda, surtout orienté datasc
 `pandas` – traitements de données, tableaux, lire/créer des Excel/csv
 `numpy` – fonctions mathématique, traitement vectoriel, matricielle des données, similaire à matlab
 `matplotlib` – générer des graphiques
+
