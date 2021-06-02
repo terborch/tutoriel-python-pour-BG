@@ -2,7 +2,7 @@
 Tutoriel didactique basée sur un cas réel.
 
 ## 1. Contexte et motivations
-À la suite d'une thermographie (photographies Infra Rouge), j'avais ~300 prises de vue au format .IS2. Pour traiter ces thermographies elles sont toutes ouvertes dans un programme spécialisé. Une à une je traite toutes les images simultanément pour obtenir des images au format .jpg.
+À la suite d'une thermographie (photographies Infra Rouge), j'avais ~300 prises de vue au format .IS2. Pour traiter ces thermographies elles sont toutes ouvertes dans un programme spécialisé. Je traite toutes les images simultanément pour obtenir des images au format .jpg.
 
 
 ![fichier](https://github.com/terborch/tutoriel-python-pour-BG/blob/main/tutoriel_1/Illustratuion_fichiers.png)
